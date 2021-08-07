@@ -1,7 +1,7 @@
 # Neural_Networks-Direction_of_Arrival-Estimation
 
 ## Repository Overview
-This repository contains the files used in my dissertation project on deep Direction of Arrival estimation using a microphone array. It contains the Python code that was used to generate simulated data, to preprocess the data and train the neural networks and to create a graphical user interface (GUI) for controlling the working prototype. It also contains the Arduino code that is used to control the stepper motor of the rotating platform used in the demonstration and MATLAB code that is used to generate the beamforming weights needed in the 60-degree implementation. Some extra supporting files such as Python code to perform audio streaming between the microphone array and a Windows laptop, some functions that are useful for embedded microphone array development and test data that can be downloaded to test the code are also included.
+This repository contains the files used in my dissertation project on deep Direction of Arrival estimation using a microphone array. It contains the Python code that was used to generate simulated data, to preprocess the data and train the neural networks and to create a graphical user interface (GUI) for controlling the working prototype. It also contains the Arduino code that is used to control the stepper motor of the rotating platform used in the demonstration and MATLAB code that is used to generate the beamforming weights needed in the 60-degree implementation. Some extra supporting files such as Python code to perform audio streaming between the microphone array and a Windows laptop, some functions that are useful for embedded microphone array development and test data that can be downloaded to test the code are also included. The audio data used come from the AMI Corpus and can be downloaded here (https://groups.inf.ed.ac.uk/ami/download/).
 
 ## Project Overview
 The scope of this project is to implement a real-time deep neural network based direction of arrival (DOA)
@@ -34,7 +34,5 @@ A GUI was made that includes a main menu, a rotation controller page, a data col
 ## Demo
 
 
-https://user-images.githubusercontent.com/87833804/128599055-5842be82-1926-488d-b4ee-9d84eb3137da.mp4
-
-
+https://user-images.githubusercontent.com/87833804/128599055-5842be82-1926-488d-b4ee-9d84eb3137da.mp4 
 

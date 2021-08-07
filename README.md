@@ -29,7 +29,7 @@ A GUI was made that includes a main menu, a rotation controller page, a data col
 * 1x Arduino Nano Every
 * 1x TMC2130 stepper motor driver module
 * 1x 12V 2A power supply adapter
-*Jumper wires
+* Jumper wires
 
 ## Demo
 

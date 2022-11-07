@@ -33,6 +33,7 @@ A GUI was made that includes a main menu, a rotation controller page, a data col
 
 ## Demo
 
+Youtube link is https://youtu.be/A0v6j9b_b4o
 
 https://user-images.githubusercontent.com/87833804/128599055-5842be82-1926-488d-b4ee-9d84eb3137da.mp4 
 
